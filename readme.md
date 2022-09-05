@@ -1,3 +1,1 @@
-Nama   : Muhammad Iqbal Firdaus Nuzula
-Kampus : Institut Teknologi Sepuluh Nopember Surabaya
-Alamat : Kota Surabaya/Kota Blitar
+python3.x-Dasar-Programming-
